@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1070632976958",
+    "firebase_url": "https://fir-app-e5ad2-default-rtdb.firebaseio.com",
+    "project_id": "fir-app-e5ad2",
+    "storage_bucket": "fir-app-e5ad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070632976958:android:1863aa56a6a3099ffc476f",
+        "android_client_info": {
+          "package_name": "com.example.fire_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmF-L8BD2LQtH2kFi8u6ziRaPl3hLxv_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
