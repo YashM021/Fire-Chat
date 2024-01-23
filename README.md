@@ -1,16 +1,15 @@
-# fire_chat
+# Fire Chat App
 
-A new Flutter project.
+Fire Chat is a Flutter-based real-time chat application using Firebase for authentication and Cloud Firestore for storing chat messages.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Real-time chat functionality
+- User authentication with Firebase
+- Cloud Firestore for storing chat messages
+- Simple and intuitive user interface
 
-A few resources to get you started if this is your first Flutter project:
+  ### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter installed on your machine
+- Firebase project created with authentication and Cloud Firestore enabled
